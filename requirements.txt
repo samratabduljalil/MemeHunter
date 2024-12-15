@@ -1,0 +1,9 @@
+torch==2.1.0
+transformers==4.34.0
+opencv-python==4.7.0.72
+Pillow==9.4.0
+tqdm==4.64.1
+chromadb==0.3.0
+langchain==0.0.196
+openai==0.27.0
+huggingface-hub==0.14.1
